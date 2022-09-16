@@ -5,7 +5,7 @@ https://empowervirtual.com/
 
 <h2>Releases</h2>
 <ul>
-<li>Sep 17, 2022 - EVTracker version 1.0</li>
+<li>Aug 24, 2022 - EVTracker version 1.0</li>
 <li>Sep 17, 2022 - EVTracker version 1.1</li>
 </ul>
 
