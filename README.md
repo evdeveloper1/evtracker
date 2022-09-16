@@ -18,4 +18,4 @@ https://empowervirtual.com/
 <li>That's it!</li>
 </ol>
 
-<p><strong>Note: </strong><i> Always check if tracker is working by switching the timer on and check if your memo has appeared in your <a href="https://empowervirtual.com/workdiary">workdiary</a><i></p>
+<p><strong>Note: </strong><i> Do 10 seconds test to make sure EV tracker is working. Stop the timer after 10 seconds and check if your memo has appeared in your <a href="https://empowervirtual.com/workdiary">workdiary</a>. If yes, you're good to go!<i></p>
